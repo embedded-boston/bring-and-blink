@@ -27,4 +27,4 @@
 ## Resources
 
 - [discovery](https://japaric.github.io/discovery/README.html)
-- [copper](https://japaric.github.io/copper/README.html))
+- [copper](https://japaric.github.io/copper/README.html)
